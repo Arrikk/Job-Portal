@@ -1,6 +1,7 @@
-# job_finder
+# Job Search UI
 
-A new Flutter project.
+
+![](https://cdn.dribbble.com/users/2090638/screenshots/11873894/media/c65f602910911404f318b8bfd4efc2cf.png?compress=1&resize=1600x1200&vertical=top)
 
 ## Getting Started
 
